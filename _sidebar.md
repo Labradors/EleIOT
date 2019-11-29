@@ -1,5 +1,10 @@
 * [简介](/)
 * [网站使用文档](/website/)
+  * [基础配置](/website/base.md)
+  * [无纸化维保配置](/website/maintain.md)
+  * [电梯数据采集配置](/website/iot_data.md)
+  * [电梯对讲配置](/website/iot_voice.md)
+  * [电梯视频配置](/website/iot_video.md)
 * 电梯数据使用文档
   * 通力电梯
   * 蒂森电梯
