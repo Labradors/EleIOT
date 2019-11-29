@@ -1,3 +1,4 @@
+![](_media/bg.png)
 # 电梯智链
 
 > A magical documentation site generator.
@@ -8,4 +9,3 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#quick-start)
-![](_media/bg.png)
