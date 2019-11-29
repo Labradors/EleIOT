@@ -1,5 +1,5 @@
 * [简介](/)
-* [网站使用文档](/website/)
+* 网站使用文档
   * [基础配置](/website/base.md)
   * [无纸化维保配置](/website/maintain.md)
   * [电梯数据采集配置](/website/iot_data.md)
