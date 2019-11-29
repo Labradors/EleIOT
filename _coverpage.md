@@ -8,4 +8,4 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#quick-start)
-![](_media/launcher.png)
+![](_media/bg.png)
