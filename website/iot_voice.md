@@ -10,7 +10,7 @@
 
 - 添加设备
 
-![](/Users/taojiang/project/doc/EleIOT/_media/net_data_add.png)
+![](../_media/net_data_add.png)
 
 选择数据管理下的设备管理模块，点击添加设备。
 
